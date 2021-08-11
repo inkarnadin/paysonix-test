@@ -1,0 +1,5 @@
+crypto:
+  secretKey: fXOqwJeUAE4Oyd
+  accessSignatures:
+    - d6c44c43c4283b650396b16418d4c1d4af60d2108c169db1e6243ee0e73ff929  #param1=1&param2=2&param0=1
+    - 7d4ac90691e479162844d0983912db78baf3dac74dd868e1f50a9ccce44a6aed  #param1=1&param2=2&param0=4
